@@ -28,6 +28,6 @@ def solution(A):
     return max_sum
 
 # Test cases
-print(solution([51, 71, 17, 42]))  # Output: 93
+print(solution([51, 71, 17, 42])) 
 print(solution([42, 33, 60])) 
 print(solution([51, 32, 43])) 
